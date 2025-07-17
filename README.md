@@ -1,7 +1,7 @@
 ## Hi there I am Khushi👋
 
 # 💫 About Me:
-<br>Hey there! I’m Khushi Yadav, a passionate Computer Science student driven by curiosity and creativity. I love exploring how technology can solve real-world problems. From building machine learning models to working on backend development, I enjoy learning by doing. My goal is to grow as a developer, build impactful projects, and contribute to the tech community!<br>
+<br><br>Hey there! I’m Khushi Yadav, a passionate Computer Science student driven by curiosity and creativity. I love exploring how technology can solve real-world problems. From building machine learning models to working on backend development, I enjoy learning by doing. My goal is to grow as a developer, build impactful projects, and contribute to the tech community!<br>
 
 
 ## 🌐 Socials:
@@ -14,11 +14,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jessica-murare&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-murare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jessica-murare&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jessica-murare&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
