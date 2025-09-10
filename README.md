@@ -3,6 +3,15 @@
 # 💫 About Me:
 <br><br>Hey there! I’m Khushi Yadav, a passionate Computer Science student driven by curiosity and creativity. I love exploring how technology can solve real-world problems. From building machine learning models to working on backend development, I enjoy learning by doing. My goal is to grow as a developer, build impactful projects, and contribute to the tech community!<br>
 
+### 🧠 Expertise
+- **Machine Learning & Deep Learning:** Regression, Classification, CNNs, RNNs, Transfer Learning  
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Natural Language Processing (NLP):** Text Preprocessing, Sentiment Analysis, Transformers  
+- **AI Tools & Frameworks:** TensorFlow, Keras, Scikit-Learn, OpenCV, Streamlit  
+- **Deployment & Backend:** Flask, Streamlit, Gunicorn, Render  
+- **Database Management:** MySQL, SQLite  
+- **Projects:** Building real-world AI/ML projects for prediction, classification, and automation
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavkhushi.31.01@gmail.com) 
